@@ -1,0 +1,76 @@
+
+body {
+    background-image: url("cooltoo.jpg");
+}
+
+.center_align {
+	text-align: center;
+}
+
+.left_align {
+	left:250px;
+	position: absolute;
+}
+
+.right_align {
+	right:250px;
+	position: absolute;
+}
+
+.right_align_also {
+	right:120px;
+	position: absolute;
+}
+
+.right_align_also_too {
+	right:0px;
+	position: absolute;
+}
+
+
+.white_text {
+	color: white;
+}
+
+.large_text {
+	font-size: 50px;
+}
+
+.larger_text {
+	font-size: 70px;
+}
+
+.small_text {
+	font-size: 25px;
+}
+
+.smaller_text {
+	font-size: 13px
+}
+
+.center_align {
+	text-align: center;
+}
+
+.oblique_font {
+	font-style: oblique;
+}
+
+.cool_font {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.purple_text {
+	color: #db4dff;
+}
+
+.green_text {
+	color: #4dff4d;
+}
+
+.show {display:block;}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: #3385ff;
+    color:#ffffff;
+  }
